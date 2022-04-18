@@ -1,8 +1,9 @@
 {
 	"AD": {
+		"alpha-2": "AD",
+		"alpha-3": "AND",
+		"numeric-3": 20,
 		"name": "Andorra",
-		"code3": "AND",
-		"code_num": 20,
 		"divisions": {
 			"AD-07": "Andorra la Vella",
 			"AD-02": "Canillo",
@@ -14,9 +15,10 @@
 		}
 	},
 	"AE": {
+		"alpha-2": "AE",
+		"alpha-3": "ARE",
+		"numeric-3": 784,
 		"name": "United Arab Emirates",
-		"code3": "ARE",
-		"code_num": 784,
 		"divisions": {
 			"AE-AJ": "'Ajman",
 			"AE-AZ": "Abu Zaby",
@@ -28,9 +30,10 @@
 		}
 	},
 	"AF": {
+		"alpha-2": "AF",
+		"alpha-3": "AFG",
+		"numeric-3": 4,
 		"name": "Afghanistan",
-		"code3": "AFG",
-		"code_num": 4,
 		"divisions": {
 			"AF-BDG": "Badghis",
 			"AF-BGL": "Baghlan",
@@ -62,9 +65,10 @@
 		}
 	},
 	"AG": {
+		"alpha-2": "AG",
+		"alpha-3": "ATG",
+		"numeric-3": 28,
 		"name": "Antigua and Barbuda",
-		"code3": "ATG",
-		"code_num": 28,
 		"divisions": {
 			"AG-10": "Barbuda",
 			"AG-11": "Redonda",
@@ -76,17 +80,19 @@
 		}
 	},
 	"AI": {
+		"alpha-2": "AI",
+		"alpha-3": "AIA",
+		"numeric-3": 660,
 		"name": "Anguilla",
-		"code3": "AIA",
-		"code_num": 660,
 		"divisions": {
 			"-": "Anguilla"
 		}
 	},
 	"AL": {
+		"alpha-2": "AL",
+		"alpha-3": "ALB",
+		"numeric-3": 8,
 		"name": "Albania",
-		"code3": "ALB",
-		"code_num": 8,
 		"divisions": {
 			"AL-01": "Berat",
 			"AL-09": "Diber",
@@ -103,9 +109,10 @@
 		}
 	},
 	"AM": {
+		"alpha-2": "AM",
+		"alpha-3": "ARM",
+		"numeric-3": 51,
 		"name": "Armenia",
-		"code3": "ARM",
-		"code_num": 51,
 		"divisions": {
 			"AM-AG": "Aragacotn",
 			"AM-AR": "Ararat",
@@ -121,9 +128,10 @@
 		}
 	},
 	"AO": {
+		"alpha-2": "AO",
+		"alpha-3": "AGO",
+		"numeric-3": 24,
 		"name": "Angola",
-		"code3": "AGO",
-		"code_num": 24,
 		"divisions": {
 			"AO-BGO": "Bengo",
 			"AO-BGU": "Benguela",
@@ -146,17 +154,19 @@
 		}
 	},
 	"AQ": {
+		"alpha-2": "AQ",
+		"alpha-3": "ATA",
+		"numeric-3": 10,
 		"name": "Antarctica",
-		"code3": "ATA",
-		"code_num": 10,
 		"divisions": {
 			"-": "Antarctica"
 		}
 	},
 	"AR": {
+		"alpha-2": "AR",
+		"alpha-3": "ARG",
+		"numeric-3": 32,
 		"name": "Argentina",
-		"code3": "ARG",
-		"code_num": 32,
 		"divisions": {
 			"AR-B": "Buenos Aires",
 			"AR-K": "Catamarca",
@@ -185,17 +195,19 @@
 		}
 	},
 	"AS": {
+		"alpha-2": "AS",
+		"alpha-3": "ASM",
+		"numeric-3": 16,
 		"name": "American Samoa",
-		"code3": "ASM",
-		"code_num": 16,
 		"divisions": {
 			"-": "Western District"
 		}
 	},
 	"AT": {
+		"alpha-2": "AT",
+		"alpha-3": "AUT",
+		"numeric-3": 40,
 		"name": "Austria",
-		"code3": "AUT",
-		"code_num": 40,
 		"divisions": {
 			"AT-1": "Burgenland",
 			"AT-2": "Karnten",
@@ -209,9 +221,10 @@
 		}
 	},
 	"AU": {
+		"alpha-2": "AU",
+		"alpha-3": "AUS",
+		"numeric-3": 36,
 		"name": "Australia",
-		"code3": "AUS",
-		"code_num": 36,
 		"divisions": {
 			"AU-ACT": "Australian Capital Territory",
 			"AU-NSW": "New South Wales",
@@ -224,25 +237,28 @@
 		}
 	},
 	"AW": {
+		"alpha-2": "AW",
+		"alpha-3": "ABW",
+		"numeric-3": 533,
 		"name": "Aruba",
-		"code3": "ABW",
-		"code_num": 533,
 		"divisions": {
 			"-": "Aruba"
 		}
 	},
 	"AX": {
+		"alpha-2": "AX",
+		"alpha-3": "ALA",
+		"numeric-3": 248,
 		"name": "Aland Islands",
-		"code3": "ALA",
-		"code_num": 248,
 		"divisions": {
 			"-": "Sund"
 		}
 	},
 	"AZ": {
+		"alpha-2": "AZ",
+		"alpha-3": "AZE",
+		"numeric-3": 31,
 		"name": "Azerbaijan",
-		"code3": "AZE",
-		"code_num": 31,
 		"divisions": {
 			"AZ-ABS": "Abseron",
 			"AZ-AGC": "Agcabadi",
@@ -298,9 +314,10 @@
 		}
 	},
 	"BA": {
+		"alpha-2": "BA",
+		"alpha-3": "BIH",
+		"numeric-3": 70,
 		"name": "Bosnia and Herzegovina",
-		"code3": "BIH",
-		"code_num": 70,
 		"divisions": {
 			"BA-BRC": "Brcko distrikt",
 			"BA-BIH": "Federacija Bosne i Hercegovine",
@@ -308,9 +325,10 @@
 		}
 	},
 	"BB": {
+		"alpha-2": "BB",
+		"alpha-3": "BRB",
+		"numeric-3": 52,
 		"name": "Barbados",
-		"code3": "BRB",
-		"code_num": 52,
 		"divisions": {
 			"BB-01": "Christ Church",
 			"BB-02": "Saint Andrew",
@@ -325,9 +343,10 @@
 		}
 	},
 	"BD": {
+		"alpha-2": "BD",
+		"alpha-3": "BGD",
+		"numeric-3": 50,
 		"name": "Bangladesh",
-		"code3": "BGD",
-		"code_num": 50,
 		"divisions": {
 			"BD-A": "Barishal",
 			"BD-B": "Chattogram",
@@ -339,9 +358,10 @@
 		}
 	},
 	"BE": {
+		"alpha-2": "BE",
+		"alpha-3": "BEL",
+		"numeric-3": 56,
 		"name": "Belgium",
-		"code3": "BEL",
-		"code_num": 56,
 		"divisions": {
 			"BE-VAN": "Antwerpen",
 			"BE-WBR": "Brabant wallon",
@@ -357,9 +377,10 @@
 		}
 	},
 	"BF": {
+		"alpha-2": "BF",
+		"alpha-3": "BFA",
+		"numeric-3": 854,
 		"name": "Burkina Faso",
-		"code3": "BFA",
-		"code_num": 854,
 		"divisions": {
 			"BF-BAL": "Bale",
 			"BF-BAM": "Bam",
@@ -402,9 +423,10 @@
 		}
 	},
 	"BG": {
+		"alpha-2": "BG",
+		"alpha-3": "BGR",
+		"numeric-3": 100,
 		"name": "Bulgaria",
-		"code3": "BGR",
-		"code_num": 100,
 		"divisions": {
 			"BG-01": "Blagoevgrad",
 			"BG-02": "Burgas",
@@ -437,9 +459,10 @@
 		}
 	},
 	"BH": {
+		"alpha-2": "BH",
+		"alpha-3": "BHR",
+		"numeric-3": 48,
 		"name": "Bahrain",
-		"code3": "BHR",
-		"code_num": 48,
 		"divisions": {
 			"BH-13": "Al 'Asimah",
 			"BH-14": "Al Janubiyah",
@@ -448,9 +471,10 @@
 		}
 	},
 	"BI": {
+		"alpha-2": "BI",
+		"alpha-3": "BDI",
+		"numeric-3": 108,
 		"name": "Burundi",
-		"code3": "BDI",
-		"code_num": 108,
 		"divisions": {
 			"BI-BM": "Bujumbura Mairie",
 			"BI-BR": "Bururi",
@@ -466,9 +490,10 @@
 		}
 	},
 	"BJ": {
+		"alpha-2": "BJ",
+		"alpha-3": "BEN",
+		"numeric-3": 204,
 		"name": "Benin",
-		"code3": "BEN",
-		"code_num": 204,
 		"divisions": {
 			"BJ-AQ": "Atlantique",
 			"BJ-BO": "Borgou",
@@ -481,25 +506,28 @@
 		}
 	},
 	"BL": {
+		"alpha-2": "BL",
+		"alpha-3": "BLM",
+		"numeric-3": 652,
 		"name": "Saint Barthelemy",
-		"code3": "BLM",
-		"code_num": 652,
 		"divisions": {
 			"-": "Saint Barthelemy"
 		}
 	},
 	"BM": {
+		"alpha-2": "BM",
+		"alpha-3": "BMU",
+		"numeric-3": 60,
 		"name": "Bermuda",
-		"code3": "BMU",
-		"code_num": 60,
 		"divisions": {
 			"-": "Saint George"
 		}
 	},
 	"BN": {
+		"alpha-2": "BN",
+		"alpha-3": "BRN",
+		"numeric-3": 96,
 		"name": "Brunei Darussalam",
-		"code3": "BRN",
-		"code_num": 96,
 		"divisions": {
 			"BN-BE": "Belait",
 			"BN-BM": "Brunei-Muara",
@@ -508,9 +536,10 @@
 		}
 	},
 	"BO": {
+		"alpha-2": "BO",
+		"alpha-3": "BOL",
+		"numeric-3": 68,
 		"name": "Bolivia (Plurinational State of)",
-		"code3": "BOL",
-		"code_num": 68,
 		"divisions": {
 			"BO-H": "Chuquisaca",
 			"BO-C": "Cochabamba",
@@ -524,9 +553,10 @@
 		}
 	},
 	"BQ": {
+		"alpha-2": "BQ",
+		"alpha-3": "BES",
+		"numeric-3": 535,
 		"name": "Bonaire, Sint Eustatius and Saba",
-		"code3": "BES",
-		"code_num": 535,
 		"divisions": {
 			"BQ-BO": "Bonaire",
 			"BQ-SA": "Saba",
@@ -534,9 +564,10 @@
 		}
 	},
 	"BR": {
+		"alpha-2": "BR",
+		"alpha-3": "BRA",
+		"numeric-3": 76,
 		"name": "Brazil",
-		"code3": "BRA",
-		"code_num": 76,
 		"divisions": {
 			"BR-AC": "Acre",
 			"BR-AL": "Alagoas",
@@ -568,9 +599,10 @@
 		}
 	},
 	"BS": {
+		"alpha-2": "BS",
+		"alpha-3": "BHS",
+		"numeric-3": 44,
 		"name": "Bahamas",
-		"code3": "BHS",
-		"code_num": 44,
 		"divisions": {
 			"BS-BP": "Black Point",
 			"BS-CO": "Central Abaco",
@@ -587,9 +619,10 @@
 		}
 	},
 	"BT": {
+		"alpha-2": "BT",
+		"alpha-3": "BTN",
+		"numeric-3": 64,
 		"name": "Bhutan",
-		"code3": "BTN",
-		"code_num": 64,
 		"divisions": {
 			"BT-33": "Bumthang",
 			"BT-12": "Chhukha",
@@ -611,17 +644,19 @@
 		}
 	},
 	"BV": {
+		"alpha-2": "BV",
+		"alpha-3": "BVT",
+		"numeric-3": 74,
 		"name": "Bouvet Island",
-		"code3": "BVT",
-		"code_num": 74,
 		"divisions": {
 			"-": "Bouvet Island"
 		}
 	},
 	"BW": {
+		"alpha-2": "BW",
+		"alpha-3": "BWA",
+		"numeric-3": 72,
 		"name": "Botswana",
-		"code3": "BWA",
-		"code_num": 72,
 		"divisions": {
 			"BW-CE": "Central",
 			"BW-CH": "Chobe",
@@ -635,9 +670,10 @@
 		}
 	},
 	"BY": {
+		"alpha-2": "BY",
+		"alpha-3": "BLR",
+		"numeric-3": 112,
 		"name": "Belarus",
-		"code3": "BLR",
-		"code_num": 112,
 		"divisions": {
 			"BY-BR": "Brestskaya voblasts'",
 			"BY-HO": "Homyel'skaya voblasts'",
@@ -649,9 +685,10 @@
 		}
 	},
 	"BZ": {
+		"alpha-2": "BZ",
+		"alpha-3": "BLZ",
+		"numeric-3": 84,
 		"name": "Belize",
-		"code3": "BLZ",
-		"code_num": 84,
 		"divisions": {
 			"BZ-BZ": "Belize",
 			"BZ-CY": "Cayo",
@@ -662,9 +699,10 @@
 		}
 	},
 	"CA": {
+		"alpha-2": "CA",
+		"alpha-3": "CAN",
+		"numeric-3": 124,
 		"name": "Canada",
-		"code3": "CAN",
-		"code_num": 124,
 		"divisions": {
 			"CA-AB": "Alberta",
 			"CA-BC": "British Columbia",
@@ -682,17 +720,19 @@
 		}
 	},
 	"CC": {
+		"alpha-2": "CC",
+		"alpha-3": "CCK",
+		"numeric-3": 166,
 		"name": "Cocos (Keeling) Islands",
-		"code3": "CCK",
-		"code_num": 166,
 		"divisions": {
 			"-": "Cocos (Keeling) Islands"
 		}
 	},
 	"CD": {
+		"alpha-2": "CD",
+		"alpha-3": "COD",
+		"numeric-3": 180,
 		"name": "Congo (Democratic Republic of the)",
-		"code3": "COD",
-		"code_num": 180,
 		"divisions": {
 			"CD-EQ": "Equateur",
 			"CD-HK": "Haut-Katanga",
@@ -714,9 +754,10 @@
 		}
 	},
 	"CF": {
+		"alpha-2": "CF",
+		"alpha-3": "CAF",
+		"numeric-3": 140,
 		"name": "Central African Republic",
-		"code3": "CAF",
-		"code_num": 140,
 		"divisions": {
 			"CF-BB": "Bamingui-Bangoran",
 			"CF-BGF": "Bangui",
@@ -729,9 +770,10 @@
 		}
 	},
 	"CG": {
+		"alpha-2": "CG",
+		"alpha-3": "COG",
+		"numeric-3": 178,
 		"name": "Congo",
-		"code3": "COG",
-		"code_num": 178,
 		"divisions": {
 			"CG-11": "Bouenza",
 			"CG-BZV": "Brazzaville",
@@ -742,9 +784,10 @@
 		}
 	},
 	"CH": {
+		"alpha-2": "CH",
+		"alpha-3": "CHE",
+		"numeric-3": 756,
 		"name": "Switzerland",
-		"code3": "CHE",
-		"code_num": 756,
 		"divisions": {
 			"CH-AG": "Aargau",
 			"CH-AR": "Appenzell Ausserrhoden",
@@ -775,9 +818,10 @@
 		}
 	},
 	"CI": {
+		"alpha-2": "CI",
+		"alpha-3": "CIV",
+		"numeric-3": 384,
 		"name": "Cote d'Ivoire",
-		"code3": "CIV",
-		"code_num": 384,
 		"divisions": {
 			"CI-AB": "Abidjan",
 			"CI-BS": "Bas-Sassandra",
@@ -796,17 +840,19 @@
 		}
 	},
 	"CK": {
+		"alpha-2": "CK",
+		"alpha-3": "COK",
+		"numeric-3": 184,
 		"name": "Cook Islands",
-		"code3": "COK",
-		"code_num": 184,
 		"divisions": {
 			"-": "Cook Islands"
 		}
 	},
 	"CL": {
+		"alpha-2": "CL",
+		"alpha-3": "CHL",
+		"numeric-3": 152,
 		"name": "Chile",
-		"code3": "CHL",
-		"code_num": 152,
 		"divisions": {
 			"CL-AI": "Aisen del General Carlos Ibanez del Campo",
 			"CL-AN": "Antofagasta",
@@ -827,9 +873,10 @@
 		}
 	},
 	"CM": {
+		"alpha-2": "CM",
+		"alpha-3": "CMR",
+		"numeric-3": 120,
 		"name": "Cameroon",
-		"code3": "CMR",
-		"code_num": 120,
 		"divisions": {
 			"CM-AD": "Adamaoua",
 			"CM-CE": "Centre",
@@ -844,9 +891,10 @@
 		}
 	},
 	"CN": {
+		"alpha-2": "CN",
+		"alpha-3": "CHN",
+		"numeric-3": 156,
 		"name": "China",
-		"code3": "CHN",
-		"code_num": 156,
 		"divisions": {
 			"CN-AH": "Anhui",
 			"CN-BJ": "Beijing",
@@ -882,9 +930,10 @@
 		}
 	},
 	"CO": {
+		"alpha-2": "CO",
+		"alpha-3": "COL",
+		"numeric-3": 170,
 		"name": "Colombia",
-		"code3": "COL",
-		"code_num": 170,
 		"divisions": {
 			"CO-AMA": "Amazonas",
 			"CO-ANT": "Antioquia",
@@ -921,9 +970,10 @@
 		}
 	},
 	"CR": {
+		"alpha-2": "CR",
+		"alpha-3": "CRI",
+		"numeric-3": 188,
 		"name": "Costa Rica",
-		"code3": "CRI",
-		"code_num": 188,
 		"divisions": {
 			"CR-A": "Alajuela",
 			"CR-C": "Cartago",
@@ -935,9 +985,10 @@
 		}
 	},
 	"CU": {
+		"alpha-2": "CU",
+		"alpha-3": "CUB",
+		"numeric-3": 192,
 		"name": "Cuba",
-		"code3": "CUB",
-		"code_num": 192,
 		"divisions": {
 			"CU-15": "Artemisa",
 			"CU-09": "Camaguey",
@@ -957,9 +1008,10 @@
 		}
 	},
 	"CV": {
+		"alpha-2": "CV",
+		"alpha-3": "CPV",
+		"numeric-3": 132,
 		"name": "Cabo Verde",
-		"code3": "CPV",
-		"code_num": 132,
 		"divisions": {
 			"CV-BV": "Boa Vista",
 			"CV-BR": "Brava",
@@ -976,25 +1028,28 @@
 		}
 	},
 	"CW": {
+		"alpha-2": "CW",
+		"alpha-3": "CUW",
+		"numeric-3": 531,
 		"name": "Cura\u00e7ao",
-		"code3": "CUW",
-		"code_num": 531,
 		"divisions": {
 			"-": "Curacao"
 		}
 	},
 	"CX": {
+		"alpha-2": "CX",
+		"alpha-3": "CXR",
+		"numeric-3": 162,
 		"name": "Christmas Island",
-		"code3": "CXR",
-		"code_num": 162,
 		"divisions": {
 			"-": "Christmas Island"
 		}
 	},
 	"CY": {
+		"alpha-2": "CY",
+		"alpha-3": "CYP",
+		"numeric-3": 196,
 		"name": "Cyprus",
-		"code3": "CYP",
-		"code_num": 196,
 		"divisions": {
 			"CY-04": "Ammochostos",
 			"CY-06": "Keryneia",
@@ -1005,9 +1060,10 @@
 		}
 	},
 	"CZ": {
+		"alpha-2": "CZ",
+		"alpha-3": "CZE",
+		"numeric-3": 203,
 		"name": "Czechia",
-		"code3": "CZE",
-		"code_num": 203,
 		"divisions": {
 			"CZ-31": "Jihocesky kraj",
 			"CZ-64": "Jihomoravsky kraj",
@@ -1026,9 +1082,10 @@
 		}
 	},
 	"DE": {
+		"alpha-2": "DE",
+		"alpha-3": "DEU",
+		"numeric-3": 276,
 		"name": "Germany",
-		"code3": "DEU",
-		"code_num": 276,
 		"divisions": {
 			"DE-BW": "Baden-Wurttemberg",
 			"DE-BY": "Bayern",
@@ -1049,9 +1106,10 @@
 		}
 	},
 	"DJ": {
+		"alpha-2": "DJ",
+		"alpha-3": "DJI",
+		"numeric-3": 262,
 		"name": "Djibouti",
-		"code3": "DJI",
-		"code_num": 262,
 		"divisions": {
 			"DJ-AR": "Arta",
 			"DJ-DI": "Dikhil",
@@ -1059,9 +1117,10 @@
 		}
 	},
 	"DK": {
+		"alpha-2": "DK",
+		"alpha-3": "DNK",
+		"numeric-3": 208,
 		"name": "Denmark",
-		"code3": "DNK",
-		"code_num": 208,
 		"divisions": {
 			"DK-84": "Hovedstaden",
 			"DK-82": "Midtjylland",
@@ -1071,9 +1130,10 @@
 		}
 	},
 	"DM": {
+		"alpha-2": "DM",
+		"alpha-3": "DMA",
+		"numeric-3": 212,
 		"name": "Dominica",
-		"code3": "DMA",
-		"code_num": 212,
 		"divisions": {
 			"DM-04": "Saint George",
 			"DM-05": "Saint John",
@@ -1084,9 +1144,10 @@
 		}
 	},
 	"DO": {
+		"alpha-2": "DO",
+		"alpha-3": "DOM",
+		"numeric-3": 214,
 		"name": "Dominican Republic",
-		"code3": "DOM",
-		"code_num": 214,
 		"divisions": {
 			"DO-02": "Azua",
 			"DO-03": "Baoruco",
@@ -1122,9 +1183,10 @@
 		}
 	},
 	"DZ": {
+		"alpha-2": "DZ",
+		"alpha-3": "DZA",
+		"numeric-3": 12,
 		"name": "Algeria",
-		"code3": "DZA",
-		"code_num": 12,
 		"divisions": {
 			"DZ-01": "Adrar",
 			"DZ-44": "Ain Defla",
@@ -1177,9 +1239,10 @@
 		}
 	},
 	"EC": {
+		"alpha-2": "EC",
+		"alpha-3": "ECU",
+		"numeric-3": 218,
 		"name": "Ecuador",
-		"code3": "ECU",
-		"code_num": 218,
 		"divisions": {
 			"EC-A": "Azuay",
 			"EC-B": "Bolivar",
@@ -1208,9 +1271,10 @@
 		}
 	},
 	"EE": {
+		"alpha-2": "EE",
+		"alpha-3": "EST",
+		"numeric-3": 233,
 		"name": "Estonia",
-		"code3": "EST",
-		"code_num": 233,
 		"divisions": {
 			"EE-37": "Harjumaa",
 			"EE-39": "Hiiumaa",
@@ -1230,9 +1294,10 @@
 		}
 	},
 	"EG": {
+		"alpha-2": "EG",
+		"alpha-3": "EGY",
+		"numeric-3": 818,
 		"name": "Egypt",
-		"code3": "EGY",
-		"code_num": 818,
 		"divisions": {
 			"EG-DK": "Ad Daqahliyah",
 			"EG-BA": "Al Bahr al Ahmar",
@@ -1264,25 +1329,28 @@
 		}
 	},
 	"EH": {
+		"alpha-2": "EH",
+		"alpha-3": "ESH",
+		"numeric-3": 732,
 		"name": "Western Sahara",
-		"code3": "ESH",
-		"code_num": 732,
 		"divisions": {
 			"-": "Western Sahara"
 		}
 	},
 	"ER": {
+		"alpha-2": "ER",
+		"alpha-3": "ERI",
+		"numeric-3": 232,
 		"name": "Eritrea",
-		"code3": "ERI",
-		"code_num": 232,
 		"divisions": {
 			"ER-MA": "Al Awsat"
 		}
 	},
 	"ES": {
+		"alpha-2": "ES",
+		"alpha-3": "ESP",
+		"numeric-3": 724,
 		"name": "Spain",
-		"code3": "ESP",
-		"code_num": 724,
 		"divisions": {
 			"ES-AN": "Andalucia",
 			"ES-AR": "Aragon",
@@ -1306,9 +1374,10 @@
 		}
 	},
 	"ET": {
+		"alpha-2": "ET",
+		"alpha-3": "ETH",
+		"numeric-3": 231,
 		"name": "Ethiopia",
-		"code3": "ETH",
-		"code_num": 231,
 		"divisions": {
 			"ET-AA": "Adis Abeba",
 			"ET-AF": "Afar",
@@ -1324,9 +1393,10 @@
 		}
 	},
 	"FI": {
+		"alpha-2": "FI",
+		"alpha-3": "FIN",
+		"numeric-3": 246,
 		"name": "Finland",
-		"code3": "FIN",
-		"code_num": 246,
 		"divisions": {
 			"FI-02": "Etela-Karjala",
 			"FI-03": "Etela-Pohjanmaa",
@@ -1349,9 +1419,10 @@
 		}
 	},
 	"FJ": {
+		"alpha-2": "FJ",
+		"alpha-3": "FJI",
+		"numeric-3": 242,
 		"name": "Fiji",
-		"code3": "FJI",
-		"code_num": 242,
 		"divisions": {
 			"FJ-C": "Central",
 			"FJ-E": "Eastern",
@@ -1361,17 +1432,19 @@
 		}
 	},
 	"FK": {
+		"alpha-2": "FK",
+		"alpha-3": "FLK",
+		"numeric-3": 238,
 		"name": "Falkland Islands (Malvinas)",
-		"code3": "FLK",
-		"code_num": 238,
 		"divisions": {
 			"-": "Falkland Islands (Malvinas)"
 		}
 	},
 	"FM": {
+		"alpha-2": "FM",
+		"alpha-3": "FSM",
+		"numeric-3": 583,
 		"name": "Micronesia (Federated States of)",
-		"code3": "FSM",
-		"code_num": 583,
 		"divisions": {
 			"FM-TRK": "Chuuk",
 			"FM-KSA": "Kosrae",
@@ -1380,17 +1453,19 @@
 		}
 	},
 	"FO": {
+		"alpha-2": "FO",
+		"alpha-3": "FRO",
+		"numeric-3": 234,
 		"name": "Faroe Islands",
-		"code3": "FRO",
-		"code_num": 234,
 		"divisions": {
 			"-": "Vagar"
 		}
 	},
 	"FR": {
+		"alpha-2": "FR",
+		"alpha-3": "FRA",
+		"numeric-3": 250,
 		"name": "France",
-		"code3": "FRA",
-		"code_num": 250,
 		"divisions": {
 			"FR-ARA": "Auvergne-Rhone-Alpes",
 			"FR-BFC": "Bourgogne-Franche-Comte",
@@ -1408,9 +1483,10 @@
 		}
 	},
 	"GA": {
+		"alpha-2": "GA",
+		"alpha-3": "GAB",
+		"numeric-3": 266,
 		"name": "Gabon",
-		"code3": "GAB",
-		"code_num": 266,
 		"divisions": {
 			"GA-1": "Estuaire",
 			"GA-2": "Haut-Ogooue",
@@ -1421,9 +1497,10 @@
 		}
 	},
 	"GB": {
+		"alpha-2": "GB",
+		"alpha-3": "GBR",
+		"numeric-3": 826,
 		"name": "United Kingdom of Great Britain and Northern Ireland",
-		"code3": "GBR",
-		"code_num": 826,
 		"divisions": {
 			"GB-ENG": "England",
 			"GB-NIR": "Northern Ireland",
@@ -1432,9 +1509,10 @@
 		}
 	},
 	"GD": {
+		"alpha-2": "GD",
+		"alpha-3": "GRD",
+		"numeric-3": 308,
 		"name": "Grenada",
-		"code3": "GRD",
-		"code_num": 308,
 		"divisions": {
 			"GD-01": "Saint Andrew",
 			"GD-02": "Saint David",
@@ -1446,9 +1524,10 @@
 		}
 	},
 	"GE": {
+		"alpha-2": "GE",
+		"alpha-3": "GEO",
+		"numeric-3": 268,
 		"name": "Georgia",
-		"code3": "GEO",
-		"code_num": 268,
 		"divisions": {
 			"GE-AB": "Abkhazia",
 			"GE-AJ": "Ajaria",
@@ -1465,25 +1544,28 @@
 		}
 	},
 	"GF": {
+		"alpha-2": "GF",
+		"alpha-3": "GUF",
+		"numeric-3": 254,
 		"name": "French Guiana",
-		"code3": "GUF",
-		"code_num": 254,
 		"divisions": {
 			"-": "Guyane"
 		}
 	},
 	"GG": {
+		"alpha-2": "GG",
+		"alpha-3": "GGY",
+		"numeric-3": 831,
 		"name": "Guernsey",
-		"code3": "GGY",
-		"code_num": 831,
 		"divisions": {
 			"-": "Guernsey"
 		}
 	},
 	"GH": {
+		"alpha-2": "GH",
+		"alpha-3": "GHA",
+		"numeric-3": 288,
 		"name": "Ghana",
-		"code3": "GHA",
-		"code_num": 288,
 		"divisions": {
 			"GH-AF": "Ahafo",
 			"GH-AH": "Ashanti",
@@ -1500,17 +1582,19 @@
 		}
 	},
 	"GI": {
+		"alpha-2": "GI",
+		"alpha-3": "GIB",
+		"numeric-3": 292,
 		"name": "Gibraltar",
-		"code3": "GIB",
-		"code_num": 292,
 		"divisions": {
 			"-": "Gibraltar"
 		}
 	},
 	"GL": {
+		"alpha-2": "GL",
+		"alpha-3": "GRL",
+		"numeric-3": 304,
 		"name": "Greenland",
-		"code3": "GRL",
-		"code_num": 304,
 		"divisions": {
 			"GL-AV": "Avannaata Kommunia",
 			"GL-KU": "Kommune Kujalleq",
@@ -1520,9 +1604,10 @@
 		}
 	},
 	"GM": {
+		"alpha-2": "GM",
+		"alpha-3": "GMB",
+		"numeric-3": 270,
 		"name": "Gambia",
-		"code3": "GMB",
-		"code_num": 270,
 		"divisions": {
 			"GM-B": "Banjul",
 			"GM-M": "Central River",
@@ -1533,9 +1618,10 @@
 		}
 	},
 	"GN": {
+		"alpha-2": "GN",
+		"alpha-3": "GIN",
+		"numeric-3": 324,
 		"name": "Guinea",
-		"code3": "GIN",
-		"code_num": 324,
 		"divisions": {
 			"GN-BE": "Beyla",
 			"GN-B": "Boke",
@@ -1554,17 +1640,19 @@
 		}
 	},
 	"GP": {
+		"alpha-2": "GP",
+		"alpha-3": "GLP",
+		"numeric-3": 312,
 		"name": "Guadeloupe",
-		"code3": "GLP",
-		"code_num": 312,
 		"divisions": {
 			"-": "Guadeloupe"
 		}
 	},
 	"GQ": {
+		"alpha-2": "GQ",
+		"alpha-3": "GNQ",
+		"numeric-3": 226,
 		"name": "Equatorial Guinea",
-		"code3": "GNQ",
-		"code_num": 226,
 		"divisions": {
 			"GQ-BN": "Bioko Norte",
 			"GQ-KN": "Kie-Ntem",
@@ -1573,9 +1661,10 @@
 		}
 	},
 	"GR": {
+		"alpha-2": "GR",
+		"alpha-3": "GRC",
+		"numeric-3": 300,
 		"name": "Greece",
-		"code3": "GRC",
-		"code_num": 300,
 		"divisions": {
 			"GR-69": "Agion Oros",
 			"GR-A": "Anatoliki Makedonia kai Thraki",
@@ -1594,17 +1683,19 @@
 		}
 	},
 	"GS": {
+		"alpha-2": "GS",
+		"alpha-3": "SGS",
+		"numeric-3": 239,
 		"name": "South Georgia and the South Sandwich Islands",
-		"code3": "SGS",
-		"code_num": 239,
 		"divisions": {
 			"-": "South Georgia and the South Sandwich Islands"
 		}
 	},
 	"GT": {
+		"alpha-2": "GT",
+		"alpha-3": "GTM",
+		"numeric-3": 320,
 		"name": "Guatemala",
-		"code3": "GTM",
-		"code_num": 320,
 		"divisions": {
 			"GT-16": "Alta Verapaz",
 			"GT-15": "Baja Verapaz",
@@ -1631,26 +1722,29 @@
 		}
 	},
 	"GU": {
+		"alpha-2": "GU",
+		"alpha-3": "GUM",
+		"numeric-3": 316,
 		"name": "Guam",
-		"code3": "GUM",
-		"code_num": 316,
 		"divisions": {
 			"-": "Yona"
 		}
 	},
 	"GW": {
+		"alpha-2": "GW",
+		"alpha-3": "GNB",
+		"numeric-3": 624,
 		"name": "Guinea-Bissau",
-		"code3": "GNB",
-		"code_num": 624,
 		"divisions": {
 			"GW-BS": "Bissau",
 			"GW-GA": "Gabu"
 		}
 	},
 	"GY": {
+		"alpha-2": "GY",
+		"alpha-3": "GUY",
+		"numeric-3": 328,
 		"name": "Guyana",
-		"code3": "GUY",
-		"code_num": 328,
 		"divisions": {
 			"GY-BA": "Barima-Waini",
 			"GY-CU": "Cuyuni-Mazaruni",
@@ -1663,25 +1757,28 @@
 		}
 	},
 	"HK": {
+		"alpha-2": "HK",
+		"alpha-3": "HKG",
+		"numeric-3": 344,
 		"name": "Hong Kong",
-		"code3": "HKG",
-		"code_num": 344,
 		"divisions": {
 			"-": "Hong Kong"
 		}
 	},
 	"HM": {
+		"alpha-2": "HM",
+		"alpha-3": "HMD",
+		"numeric-3": 334,
 		"name": "Heard Island and McDonald Islands",
-		"code3": "HMD",
-		"code_num": 334,
 		"divisions": {
 			"-": "Heard Island and McDonald Islands"
 		}
 	},
 	"HN": {
+		"alpha-2": "HN",
+		"alpha-3": "HND",
+		"numeric-3": 340,
 		"name": "Honduras",
-		"code3": "HND",
-		"code_num": 340,
 		"divisions": {
 			"HN-AT": "Atlantida",
 			"HN-CH": "Choluteca",
@@ -1704,9 +1801,10 @@
 		}
 	},
 	"HR": {
+		"alpha-2": "HR",
+		"alpha-3": "HRV",
+		"numeric-3": 191,
 		"name": "Croatia",
-		"code3": "HRV",
-		"code_num": 191,
 		"divisions": {
 			"HR-07": "Bjelovarsko-bilogorska zupanija",
 			"HR-12": "Brodsko-posavska zupanija",
@@ -1732,9 +1830,10 @@
 		}
 	},
 	"HT": {
+		"alpha-2": "HT",
+		"alpha-3": "HTI",
+		"numeric-3": 332,
 		"name": "Haiti",
-		"code3": "HTI",
-		"code_num": 332,
 		"divisions": {
 			"HT-AR": "Artibonite",
 			"HT-CE": "Centre",
@@ -1747,9 +1846,10 @@
 		}
 	},
 	"HU": {
+		"alpha-2": "HU",
+		"alpha-3": "HUN",
+		"numeric-3": 348,
 		"name": "Hungary",
-		"code3": "HUN",
-		"code_num": 348,
 		"divisions": {
 			"HU-BK": "Bacs-Kiskun",
 			"HU-BA": "Baranya",
@@ -1774,9 +1874,10 @@
 		}
 	},
 	"ID": {
+		"alpha-2": "ID",
+		"alpha-3": "IDN",
+		"numeric-3": 360,
 		"name": "Indonesia",
-		"code3": "IDN",
-		"code_num": 360,
 		"divisions": {
 			"ID-AC": "Aceh",
 			"ID-BA": "Bali",
@@ -1815,9 +1916,10 @@
 		}
 	},
 	"IE": {
+		"alpha-2": "IE",
+		"alpha-3": "IRL",
+		"numeric-3": 372,
 		"name": "Ireland",
-		"code3": "IRL",
-		"code_num": 372,
 		"divisions": {
 			"IE-CW": "Carlow",
 			"IE-CN": "Cavan",
@@ -1848,9 +1950,10 @@
 		}
 	},
 	"IL": {
+		"alpha-2": "IL",
+		"alpha-3": "ISR",
+		"numeric-3": 376,
 		"name": "Israel",
-		"code3": "ISR",
-		"code_num": 376,
 		"divisions": {
 			"IL-D": "HaDarom",
 			"IL-M": "HaMerkaz",
@@ -1861,17 +1964,19 @@
 		}
 	},
 	"IM": {
+		"alpha-2": "IM",
+		"alpha-3": "IMN",
+		"numeric-3": 833,
 		"name": "Isle of Man",
-		"code3": "IMN",
-		"code_num": 833,
 		"divisions": {
 			"-": "Isle of Man"
 		}
 	},
 	"IN": {
+		"alpha-2": "IN",
+		"alpha-3": "IND",
+		"numeric-3": 356,
 		"name": "India",
-		"code3": "IND",
-		"code_num": 356,
 		"divisions": {
 			"IN-AN": "Andaman and Nicobar Islands",
 			"IN-AP": "Andhra Pradesh",
@@ -1912,17 +2017,19 @@
 		}
 	},
 	"IO": {
+		"alpha-2": "IO",
+		"alpha-3": "IOT",
+		"numeric-3": 86,
 		"name": "British Indian Ocean Territory",
-		"code3": "IOT",
-		"code_num": 86,
 		"divisions": {
 			"-": "British Indian Ocean Territory"
 		}
 	},
 	"IQ": {
+		"alpha-2": "IQ",
+		"alpha-3": "IRQ",
+		"numeric-3": 368,
 		"name": "Iraq",
-		"code3": "IRQ",
-		"code_num": 368,
 		"divisions": {
 			"IQ-AN": "Al Anbar",
 			"IQ-BA": "Al Basrah",
@@ -1945,9 +2052,10 @@
 		}
 	},
 	"IR": {
+		"alpha-2": "IR",
+		"alpha-3": "IRN",
+		"numeric-3": 364,
 		"name": "Iran (Islamic Republic of)",
-		"code3": "IRN",
-		"code_num": 364,
 		"divisions": {
 			"IR-30": "Alborz",
 			"IR-24": "Ardabil",
@@ -1983,9 +2091,10 @@
 		}
 	},
 	"IS": {
+		"alpha-2": "IS",
+		"alpha-3": "ISL",
+		"numeric-3": 352,
 		"name": "Iceland",
-		"code3": "ISL",
-		"code_num": 352,
 		"divisions": {
 			"IS-7": "Austurland",
 			"IS-1": "Hofudborgarsvaedi",
@@ -1998,9 +2107,10 @@
 		}
 	},
 	"IT": {
+		"alpha-2": "IT",
+		"alpha-3": "ITA",
+		"numeric-3": 380,
 		"name": "Italy",
-		"code3": "ITA",
-		"code_num": 380,
 		"divisions": {
 			"IT-65": "Abruzzo",
 			"IT-77": "Basilicata",
@@ -2025,17 +2135,19 @@
 		}
 	},
 	"JE": {
+		"alpha-2": "JE",
+		"alpha-3": "JEY",
+		"numeric-3": 832,
 		"name": "Jersey",
-		"code3": "JEY",
-		"code_num": 832,
 		"divisions": {
 			"-": "Jersey"
 		}
 	},
 	"JM": {
+		"alpha-2": "JM",
+		"alpha-3": "JAM",
+		"numeric-3": 388,
 		"name": "Jamaica",
-		"code3": "JAM",
-		"code_num": 388,
 		"divisions": {
 			"JM-13": "Clarendon",
 			"JM-09": "Hanover",
@@ -2054,9 +2166,10 @@
 		}
 	},
 	"JO": {
+		"alpha-2": "JO",
+		"alpha-3": "JOR",
+		"numeric-3": 400,
 		"name": "Jordan",
-		"code3": "JOR",
-		"code_num": 400,
 		"divisions": {
 			"JO-AJ": "'Ajlun",
 			"JO-AQ": "Al 'Aqabah",
@@ -2073,9 +2186,10 @@
 		}
 	},
 	"JP": {
+		"alpha-2": "JP",
+		"alpha-3": "JPN",
+		"numeric-3": 392,
 		"name": "Japan",
-		"code3": "JPN",
-		"code_num": 392,
 		"divisions": {
 			"JP-23": "Aichi",
 			"JP-05": "Akita",
@@ -2127,9 +2241,10 @@
 		}
 	},
 	"KE": {
+		"alpha-2": "KE",
+		"alpha-3": "KEN",
+		"numeric-3": 404,
 		"name": "Kenya",
-		"code3": "KEN",
-		"code_num": 404,
 		"divisions": {
 			"KE-01": "Baringo",
 			"KE-02": "Bomet",
@@ -2181,9 +2296,10 @@
 		}
 	},
 	"KG": {
+		"alpha-2": "KG",
+		"alpha-3": "KGZ",
+		"numeric-3": 417,
 		"name": "Kyrgyzstan",
-		"code3": "KGZ",
-		"code_num": 417,
 		"divisions": {
 			"KG-B": "Batken",
 			"KG-GB": "Bishkek Shaary",
@@ -2196,9 +2312,10 @@
 		}
 	},
 	"KH": {
+		"alpha-2": "KH",
+		"alpha-3": "KHM",
+		"numeric-3": 116,
 		"name": "Cambodia",
-		"code3": "KHM",
-		"code_num": 116,
 		"divisions": {
 			"KH-2": "Baat Dambang",
 			"KH-1": "Banteay Mean Choay",
@@ -2224,26 +2341,29 @@
 		}
 	},
 	"KI": {
+		"alpha-2": "KI",
+		"alpha-3": "KIR",
+		"numeric-3": 296,
 		"name": "Kiribati",
-		"code3": "KIR",
-		"code_num": 296,
 		"divisions": {
 			"KI-G": "Gilbert Islands"
 		}
 	},
 	"KM": {
+		"alpha-2": "KM",
+		"alpha-3": "COM",
+		"numeric-3": 174,
 		"name": "Comoros",
-		"code3": "COM",
-		"code_num": 174,
 		"divisions": {
 			"KM-G": "Grande Comore",
 			"KM-M": "Moheli"
 		}
 	},
 	"KN": {
+		"alpha-2": "KN",
+		"alpha-3": "KNA",
+		"numeric-3": 659,
 		"name": "Saint Kitts and Nevis",
-		"code3": "KNA",
-		"code_num": 659,
 		"divisions": {
 			"KN-01": "Christ Church Nichola Town",
 			"KN-02": "Saint Anne Sandy Point",
@@ -2261,17 +2381,19 @@
 		}
 	},
 	"KP": {
+		"alpha-2": "KP",
+		"alpha-3": "PRK",
+		"numeric-3": 408,
 		"name": "Korea (Democratic People's Republic of)",
-		"code3": "PRK",
-		"code_num": 408,
 		"divisions": {
 			"KP-01": "P'yongyang"
 		}
 	},
 	"KR": {
+		"alpha-2": "KR",
+		"alpha-3": "KOR",
+		"numeric-3": 410,
 		"name": "Korea (Republic of)",
-		"code3": "KOR",
-		"code_num": 410,
 		"divisions": {
 			"KR-26": "Busan-gwangyeoksi",
 			"KR-43": "Chungcheongbuk-do",
@@ -2292,9 +2414,10 @@
 		}
 	},
 	"KW": {
+		"alpha-2": "KW",
+		"alpha-3": "KWT",
+		"numeric-3": 414,
 		"name": "Kuwait",
-		"code3": "KWT",
-		"code_num": 414,
 		"divisions": {
 			"KW-KU": "Al 'Asimah",
 			"KW-AH": "Al Ahmadi",
@@ -2305,17 +2428,19 @@
 		}
 	},
 	"KY": {
+		"alpha-2": "KY",
+		"alpha-3": "CYM",
+		"numeric-3": 136,
 		"name": "Cayman Islands",
-		"code3": "CYM",
-		"code_num": 136,
 		"divisions": {
 			"-": "Cayman Islands"
 		}
 	},
 	"KZ": {
+		"alpha-2": "KZ",
+		"alpha-3": "KAZ",
+		"numeric-3": 398,
 		"name": "Kazakhstan",
-		"code3": "KAZ",
-		"code_num": 398,
 		"divisions": {
 			"KZ-ALA": "Almaty",
 			"KZ-ALM": "Almaty oblysy",
@@ -2337,9 +2462,10 @@
 		}
 	},
 	"LA": {
+		"alpha-2": "LA",
+		"alpha-3": "LAO",
+		"numeric-3": 418,
 		"name": "Lao People's Democratic Republic",
-		"code3": "LAO",
-		"code_num": 418,
 		"divisions": {
 			"LA-AT": "Attapu",
 			"LA-BK": "Bokeo",
@@ -2358,9 +2484,10 @@
 		}
 	},
 	"LB": {
+		"alpha-2": "LB",
+		"alpha-3": "LBN",
+		"numeric-3": 422,
 		"name": "Lebanon",
-		"code3": "LBN",
-		"code_num": 422,
 		"divisions": {
 			"LB-AK": "Aakkar",
 			"LB-BH": "Baalbek-Hermel",
@@ -2373,9 +2500,10 @@
 		}
 	},
 	"LC": {
+		"alpha-2": "LC",
+		"alpha-3": "LCA",
+		"numeric-3": 662,
 		"name": "Saint Lucia",
-		"code3": "LCA",
-		"code_num": 662,
 		"divisions": {
 			"LC-01": "Anse la Raye",
 			"LC-02": "Castries",
@@ -2389,9 +2517,10 @@
 		}
 	},
 	"LI": {
+		"alpha-2": "LI",
+		"alpha-3": "LIE",
+		"numeric-3": 438,
 		"name": "Liechtenstein",
-		"code3": "LIE",
-		"code_num": 438,
 		"divisions": {
 			"LI-01": "Balzers",
 			"LI-02": "Eschen",
@@ -2406,9 +2535,10 @@
 		}
 	},
 	"LK": {
+		"alpha-2": "LK",
+		"alpha-3": "LKA",
+		"numeric-3": 144,
 		"name": "Sri Lanka",
-		"code3": "LKA",
-		"code_num": 144,
 		"divisions": {
 			"LK-2": "Central Province",
 			"LK-5": "Eastern Province",
@@ -2422,9 +2552,10 @@
 		}
 	},
 	"LR": {
+		"alpha-2": "LR",
+		"alpha-3": "LBR",
+		"numeric-3": 430,
 		"name": "Liberia",
-		"code3": "LBR",
-		"code_num": 430,
 		"divisions": {
 			"LR-GB": "Grand Bassa",
 			"LR-GG": "Grand Gedeh",
@@ -2435,9 +2566,10 @@
 		}
 	},
 	"LS": {
+		"alpha-2": "LS",
+		"alpha-3": "LSO",
+		"numeric-3": 426,
 		"name": "Lesotho",
-		"code3": "LSO",
-		"code_num": 426,
 		"divisions": {
 			"LS-D": "Berea",
 			"LS-B": "Botha-Bothe",
@@ -2452,9 +2584,10 @@
 		}
 	},
 	"LT": {
+		"alpha-2": "LT",
+		"alpha-3": "LTU",
+		"numeric-3": 440,
 		"name": "Lithuania",
-		"code3": "LTU",
-		"code_num": 440,
 		"divisions": {
 			"LT-AL": "Alytaus apskritis",
 			"LT-KU": "Kauno apskritis",
@@ -2469,9 +2602,10 @@
 		}
 	},
 	"LU": {
+		"alpha-2": "LU",
+		"alpha-3": "LUX",
+		"numeric-3": 442,
 		"name": "Luxembourg",
-		"code3": "LUX",
-		"code_num": 442,
 		"divisions": {
 			"LU-CA": "Capellen",
 			"LU-CL": "Clervaux",
@@ -2488,9 +2622,10 @@
 		}
 	},
 	"LV": {
+		"alpha-2": "LV",
+		"alpha-3": "LVA",
+		"numeric-3": 428,
 		"name": "Latvia",
-		"code3": "LVA",
-		"code_num": 428,
 		"divisions": {
 			"LV-011": "Adazu novads",
 			"LV-002": "Aizkraukles novads",
@@ -2536,9 +2671,10 @@
 		}
 	},
 	"LY": {
+		"alpha-2": "LY",
+		"alpha-3": "LBY",
+		"numeric-3": 434,
 		"name": "Libya",
-		"code3": "LBY",
-		"code_num": 434,
 		"divisions": {
 			"LY-BU": "Al Butnan",
 			"LY-JA": "Al Jabal al Akhdar",
@@ -2563,9 +2699,10 @@
 		}
 	},
 	"MA": {
+		"alpha-2": "MA",
+		"alpha-3": "MAR",
+		"numeric-3": 504,
 		"name": "Morocco",
-		"code3": "MAR",
-		"code_num": 504,
 		"divisions": {
 			"MA-05": "Beni-Mellal-Khenifra",
 			"MA-06": "Casablanca-Settat",
@@ -2581,9 +2718,10 @@
 		}
 	},
 	"MC": {
+		"alpha-2": "MC",
+		"alpha-3": "MCO",
+		"numeric-3": 492,
 		"name": "Monaco",
-		"code3": "MCO",
-		"code_num": 492,
 		"divisions": {
 			"MC-FO": "Fontvieille",
 			"MC-CO": "La Condamine",
@@ -2594,9 +2732,10 @@
 		}
 	},
 	"MD": {
+		"alpha-2": "MD",
+		"alpha-3": "MDA",
+		"numeric-3": 498,
 		"name": "Moldova (Republic of)",
-		"code3": "MDA",
-		"code_num": 498,
 		"divisions": {
 			"MD-AN": "Anenii Noi",
 			"MD-BA": "Balti",
@@ -2638,9 +2777,10 @@
 		}
 	},
 	"ME": {
+		"alpha-2": "ME",
+		"alpha-3": "MNE",
+		"numeric-3": 499,
 		"name": "Montenegro",
-		"code3": "MNE",
-		"code_num": 499,
 		"divisions": {
 			"ME-01": "Andrijevica",
 			"ME-02": "Bar",
@@ -2664,17 +2804,19 @@
 		}
 	},
 	"MF": {
+		"alpha-2": "MF",
+		"alpha-3": "MAF",
+		"numeric-3": 663,
 		"name": "Saint Martin (French Part)",
-		"code3": "MAF",
-		"code_num": 663,
 		"divisions": {
 			"-": "Saint Martin (French Part)"
 		}
 	},
 	"MG": {
+		"alpha-2": "MG",
+		"alpha-3": "MDG",
+		"numeric-3": 450,
 		"name": "Madagascar",
-		"code3": "MDG",
-		"code_num": 450,
 		"divisions": {
 			"MG-T": "Antananarivo",
 			"MG-D": "Antsiranana",
@@ -2685,18 +2827,20 @@
 		}
 	},
 	"MH": {
+		"alpha-2": "MH",
+		"alpha-3": "MHL",
+		"numeric-3": 584,
 		"name": "Marshall Islands",
-		"code3": "MHL",
-		"code_num": 584,
 		"divisions": {
 			"MH-KWA": "Kwajalein",
 			"MH-MAJ": "Majuro"
 		}
 	},
 	"MK": {
+		"alpha-2": "MK",
+		"alpha-3": "MKD",
+		"numeric-3": 807,
 		"name": "North Macedonia",
-		"code3": "MKD",
-		"code_num": 807,
 		"divisions": {
 			"MK-802": "Aracinovo",
 			"MK-201": "Berovo",
@@ -2769,9 +2913,10 @@
 		}
 	},
 	"ML": {
+		"alpha-2": "ML",
+		"alpha-3": "MLI",
+		"numeric-3": 466,
 		"name": "Mali",
-		"code3": "MLI",
-		"code_num": 466,
 		"divisions": {
 			"ML-BKO": "Bamako",
 			"ML-7": "Gao",
@@ -2785,9 +2930,10 @@
 		}
 	},
 	"MM": {
+		"alpha-2": "MM",
+		"alpha-3": "MMR",
+		"numeric-3": 104,
 		"name": "Myanmar",
-		"code3": "MMR",
-		"code_num": 104,
 		"divisions": {
 			"MM-07": "Ayeyarwady",
 			"MM-02": "Bago",
@@ -2807,9 +2953,10 @@
 		}
 	},
 	"MN": {
+		"alpha-2": "MN",
+		"alpha-3": "MNG",
+		"numeric-3": 496,
 		"name": "Mongolia",
-		"code3": "MNG",
-		"code_num": 496,
 		"divisions": {
 			"MN-073": "Arhangay",
 			"MN-071": "Bayan-Olgiy",
@@ -2827,33 +2974,37 @@
 		}
 	},
 	"MO": {
+		"alpha-2": "MO",
+		"alpha-3": "MAC",
+		"numeric-3": 446,
 		"name": "Macao",
-		"code3": "MAC",
-		"code_num": 446,
 		"divisions": {
 			"-": "Macao"
 		}
 	},
 	"MP": {
+		"alpha-2": "MP",
+		"alpha-3": "MNP",
+		"numeric-3": 580,
 		"name": "Northern Mariana Islands",
-		"code3": "MNP",
-		"code_num": 580,
 		"divisions": {
 			"-": "Northern Mariana Islands"
 		}
 	},
 	"MQ": {
+		"alpha-2": "MQ",
+		"alpha-3": "MTQ",
+		"numeric-3": 474,
 		"name": "Martinique",
-		"code3": "MTQ",
-		"code_num": 474,
 		"divisions": {
 			"-": "Martinique"
 		}
 	},
 	"MR": {
+		"alpha-2": "MR",
+		"alpha-3": "MRT",
+		"numeric-3": 478,
 		"name": "Mauritania",
-		"code3": "MRT",
-		"code_num": 478,
 		"divisions": {
 			"MR-07": "Adrar",
 			"MR-03": "Assaba",
@@ -2870,17 +3021,19 @@
 		}
 	},
 	"MS": {
+		"alpha-2": "MS",
+		"alpha-3": "MSR",
+		"numeric-3": 500,
 		"name": "Montserrat",
-		"code3": "MSR",
-		"code_num": 500,
 		"divisions": {
 			"-": "Saint Peter"
 		}
 	},
 	"MT": {
+		"alpha-2": "MT",
+		"alpha-3": "MLT",
+		"numeric-3": 470,
 		"name": "Malta",
-		"code3": "MLT",
-		"code_num": 470,
 		"divisions": {
 			"MT-01": "Attard",
 			"MT-02": "Balzan",
@@ -2948,9 +3101,10 @@
 		}
 	},
 	"MU": {
+		"alpha-2": "MU",
+		"alpha-3": "MUS",
+		"numeric-3": 480,
 		"name": "Mauritius",
-		"code3": "MUS",
-		"code_num": 480,
 		"divisions": {
 			"MU-BL": "Black River",
 			"MU-FL": "Flacq",
@@ -2965,9 +3119,10 @@
 		}
 	},
 	"MV": {
+		"alpha-2": "MV",
+		"alpha-3": "MDV",
+		"numeric-3": 462,
 		"name": "Maldives",
-		"code3": "MDV",
-		"code_num": 462,
 		"divisions": {
 			"MV-01": "Addu City",
 			"MV-03": "Faadhippolhu",
@@ -2984,9 +3139,10 @@
 		}
 	},
 	"MW": {
+		"alpha-2": "MW",
+		"alpha-3": "MWI",
+		"numeric-3": 454,
 		"name": "Malawi",
-		"code3": "MWI",
-		"code_num": 454,
 		"divisions": {
 			"MW-BA": "Balaka",
 			"MW-BL": "Blantyre",
@@ -3008,9 +3164,10 @@
 		}
 	},
 	"MX": {
+		"alpha-2": "MX",
+		"alpha-3": "MEX",
+		"numeric-3": 484,
 		"name": "Mexico",
-		"code3": "MEX",
-		"code_num": 484,
 		"divisions": {
 			"MX-AGU": "Aguascalientes",
 			"MX-BCN": "Baja California",
@@ -3047,9 +3204,10 @@
 		}
 	},
 	"MY": {
+		"alpha-2": "MY",
+		"alpha-3": "MYS",
+		"numeric-3": 458,
 		"name": "Malaysia",
-		"code3": "MYS",
-		"code_num": 458,
 		"divisions": {
 			"MY-01": "Johor",
 			"MY-02": "Kedah",
@@ -3070,9 +3228,10 @@
 		}
 	},
 	"MZ": {
+		"alpha-2": "MZ",
+		"alpha-3": "MOZ",
+		"numeric-3": 508,
 		"name": "Mozambique",
-		"code3": "MOZ",
-		"code_num": 508,
 		"divisions": {
 			"MZ-P": "Cabo Delgado",
 			"MZ-G": "Gaza",
@@ -3087,9 +3246,10 @@
 		}
 	},
 	"NA": {
+		"alpha-2": "NA",
+		"alpha-3": "NAM",
+		"numeric-3": 516,
 		"name": "Namibia",
-		"code3": "NAM",
-		"code_num": 516,
 		"divisions": {
 			"NA-ER": "Erongo",
 			"NA-HA": "Hardap",
@@ -3108,17 +3268,19 @@
 		}
 	},
 	"NC": {
+		"alpha-2": "NC",
+		"alpha-3": "NCL",
+		"numeric-3": 540,
 		"name": "New Caledonia",
-		"code3": "NCL",
-		"code_num": 540,
 		"divisions": {
 			"-": "Province Sud"
 		}
 	},
 	"NE": {
+		"alpha-2": "NE",
+		"alpha-3": "NER",
+		"numeric-3": 562,
 		"name": "Niger",
-		"code3": "NER",
-		"code_num": 562,
 		"divisions": {
 			"NE-1": "Agadez",
 			"NE-2": "Diffa",
@@ -3131,17 +3293,19 @@
 		}
 	},
 	"NF": {
+		"alpha-2": "NF",
+		"alpha-3": "NFK",
+		"numeric-3": 574,
 		"name": "Norfolk Island",
-		"code3": "NFK",
-		"code_num": 574,
 		"divisions": {
 			"-": "Norfolk Island"
 		}
 	},
 	"NG": {
+		"alpha-2": "NG",
+		"alpha-3": "NGA",
+		"numeric-3": 566,
 		"name": "Nigeria",
-		"code3": "NGA",
-		"code_num": 566,
 		"divisions": {
 			"NG-AB": "Abia",
 			"NG-FC": "Abuja Federal Capital Territory",
@@ -3183,9 +3347,10 @@
 		}
 	},
 	"NI": {
+		"alpha-2": "NI",
+		"alpha-3": "NIC",
+		"numeric-3": 558,
 		"name": "Nicaragua",
-		"code3": "NIC",
-		"code_num": 558,
 		"divisions": {
 			"NI-BO": "Boaco",
 			"NI-CA": "Carazo",
@@ -3207,9 +3372,10 @@
 		}
 	},
 	"NL": {
+		"alpha-2": "NL",
+		"alpha-3": "NLD",
+		"numeric-3": 528,
 		"name": "Netherlands",
-		"code3": "NLD",
-		"code_num": 528,
 		"divisions": {
 			"NL-DR": "Drenthe",
 			"NL-FL": "Flevoland",
@@ -3226,9 +3392,10 @@
 		}
 	},
 	"NO": {
+		"alpha-2": "NO",
+		"alpha-3": "NOR",
+		"numeric-3": 578,
 		"name": "Norway",
-		"code3": "NOR",
-		"code_num": 578,
 		"divisions": {
 			"NO-42": "Agder",
 			"NO-34": "Innlandet",
@@ -3244,9 +3411,10 @@
 		}
 	},
 	"NP": {
+		"alpha-2": "NP",
+		"alpha-3": "NPL",
+		"numeric-3": 524,
 		"name": "Nepal",
-		"code3": "NPL",
-		"code_num": 524,
 		"divisions": {
 			"NP-BA": "Bagmati",
 			"NP-BH": "Bheri",
@@ -3265,9 +3433,10 @@
 		}
 	},
 	"NR": {
+		"alpha-2": "NR",
+		"alpha-3": "NRU",
+		"numeric-3": 520,
 		"name": "Nauru",
-		"code3": "NRU",
-		"code_num": 520,
 		"divisions": {
 			"NR-01": "Aiwo",
 			"NR-03": "Anetan",
@@ -3275,17 +3444,19 @@
 		}
 	},
 	"NU": {
+		"alpha-2": "NU",
+		"alpha-3": "NIU",
+		"numeric-3": 570,
 		"name": "Niue",
-		"code3": "NIU",
-		"code_num": 570,
 		"divisions": {
 			"-": "Niue"
 		}
 	},
 	"NZ": {
+		"alpha-2": "NZ",
+		"alpha-3": "NZL",
+		"numeric-3": 554,
 		"name": "New Zealand",
-		"code3": "NZL",
-		"code_num": 554,
 		"divisions": {
 			"NZ-AUK": "Auckland",
 			"NZ-BOP": "Bay of Plenty",
@@ -3307,9 +3478,10 @@
 		}
 	},
 	"OM": {
+		"alpha-2": "OM",
+		"alpha-3": "OMN",
+		"numeric-3": 512,
 		"name": "Oman",
-		"code3": "OMN",
-		"code_num": 512,
 		"divisions": {
 			"OM-DA": "Ad Dakhiliyah",
 			"OM-BU": "Al Buraymi",
@@ -3325,9 +3497,10 @@
 		}
 	},
 	"PA": {
+		"alpha-2": "PA",
+		"alpha-3": "PAN",
+		"numeric-3": 591,
 		"name": "Panama",
-		"code3": "PAN",
-		"code_num": 591,
 		"divisions": {
 			"PA-1": "Bocas del Toro",
 			"PA-4": "Chiriqui",
@@ -3343,9 +3516,10 @@
 		}
 	},
 	"PE": {
+		"alpha-2": "PE",
+		"alpha-3": "PER",
+		"numeric-3": 604,
 		"name": "Peru",
-		"code3": "PER",
-		"code_num": 604,
 		"divisions": {
 			"PE-AMA": "Amazonas",
 			"PE-ANC": "Ancash",
@@ -3375,17 +3549,19 @@
 		}
 	},
 	"PF": {
+		"alpha-2": "PF",
+		"alpha-3": "PYF",
+		"numeric-3": 258,
 		"name": "French Polynesia",
-		"code3": "PYF",
-		"code_num": 258,
 		"divisions": {
 			"-": "Iles du Vent"
 		}
 	},
 	"PG": {
+		"alpha-2": "PG",
+		"alpha-3": "PNG",
+		"numeric-3": 598,
 		"name": "Papua New Guinea",
-		"code3": "PNG",
-		"code_num": 598,
 		"divisions": {
 			"PG-NSB": "Bougainville",
 			"PG-CPM": "Central",
@@ -3406,9 +3582,10 @@
 		}
 	},
 	"PH": {
+		"alpha-2": "PH",
+		"alpha-3": "PHL",
+		"numeric-3": 608,
 		"name": "Philippines",
-		"code3": "PHL",
-		"code_num": 608,
 		"divisions": {
 			"PH-ABR": "Abra",
 			"PH-AGN": "Agusan del Norte",
@@ -3494,9 +3671,10 @@
 		}
 	},
 	"PK": {
+		"alpha-2": "PK",
+		"alpha-3": "PAK",
+		"numeric-3": 586,
 		"name": "Pakistan",
-		"code3": "PAK",
-		"code_num": 586,
 		"divisions": {
 			"PK-JK": "Azad Jammu and Kashmir",
 			"PK-BA": "Balochistan",
@@ -3508,9 +3686,10 @@
 		}
 	},
 	"PL": {
+		"alpha-2": "PL",
+		"alpha-3": "POL",
+		"numeric-3": 616,
 		"name": "Poland",
-		"code3": "POL",
-		"code_num": 616,
 		"divisions": {
 			"PL-02": "Dolnoslaskie",
 			"PL-04": "Kujawsko-pomorskie",
@@ -3531,33 +3710,37 @@
 		}
 	},
 	"PM": {
+		"alpha-2": "PM",
+		"alpha-3": "SPM",
+		"numeric-3": 666,
 		"name": "Saint Pierre and Miquelon",
-		"code3": "SPM",
-		"code_num": 666,
 		"divisions": {
 			"-": "Saint Pierre and Miquelon"
 		}
 	},
 	"PN": {
+		"alpha-2": "PN",
+		"alpha-3": "PCN",
+		"numeric-3": 612,
 		"name": "Pitcairn",
-		"code3": "PCN",
-		"code_num": 612,
 		"divisions": {
 			"-": "Pitcairn"
 		}
 	},
 	"PR": {
+		"alpha-2": "PR",
+		"alpha-3": "PRI",
+		"numeric-3": 630,
 		"name": "Puerto Rico",
-		"code3": "PRI",
-		"code_num": 630,
 		"divisions": {
 			"-": "Yauco"
 		}
 	},
 	"PS": {
+		"alpha-2": "PS",
+		"alpha-3": "PSE",
+		"numeric-3": 275,
 		"name": "Palestine, State of",
-		"code3": "PSE",
-		"code_num": 275,
 		"divisions": {
 			"PS-BTH": "Bethlehem",
 			"PS-DEB": "Deir El Balah",
@@ -3577,9 +3760,10 @@
 		}
 	},
 	"PT": {
+		"alpha-2": "PT",
+		"alpha-3": "PRT",
+		"numeric-3": 620,
 		"name": "Portugal",
-		"code3": "PRT",
-		"code_num": 620,
 		"divisions": {
 			"PT-01": "Aveiro",
 			"PT-02": "Beja",
@@ -3604,9 +3788,10 @@
 		}
 	},
 	"PW": {
+		"alpha-2": "PW",
+		"alpha-3": "PLW",
+		"numeric-3": 585,
 		"name": "Palau",
-		"code3": "PLW",
-		"code_num": 585,
 		"divisions": {
 			"PW-004": "Airai",
 			"PW-100": "Kayangel",
@@ -3617,9 +3802,10 @@
 		}
 	},
 	"PY": {
+		"alpha-2": "PY",
+		"alpha-3": "PRY",
+		"numeric-3": 600,
 		"name": "Paraguay",
-		"code3": "PRY",
-		"code_num": 600,
 		"divisions": {
 			"PY-10": "Alto Parana",
 			"PY-13": "Amambay",
@@ -3641,9 +3827,10 @@
 		}
 	},
 	"QA": {
+		"alpha-2": "QA",
+		"alpha-3": "QAT",
+		"numeric-3": 634,
 		"name": "Qatar",
-		"code3": "QAT",
-		"code_num": 634,
 		"divisions": {
 			"QA-DA": "Ad Dawhah",
 			"QA-KH": "Al Khawr wa adh Dhakhirah",
@@ -3655,17 +3842,19 @@
 		}
 	},
 	"RE": {
+		"alpha-2": "RE",
+		"alpha-3": "REU",
+		"numeric-3": 638,
 		"name": "Reunion",
-		"code3": "REU",
-		"code_num": 638,
 		"divisions": {
 			"-": "Reunion"
 		}
 	},
 	"RO": {
+		"alpha-2": "RO",
+		"alpha-3": "ROU",
+		"numeric-3": 642,
 		"name": "Romania",
-		"code3": "ROU",
-		"code_num": 642,
 		"divisions": {
 			"RO-AB": "Alba",
 			"RO-AR": "Arad",
@@ -3712,9 +3901,10 @@
 		}
 	},
 	"RS": {
+		"alpha-2": "RS",
+		"alpha-3": "SRB",
+		"numeric-3": 688,
 		"name": "Serbia",
-		"code3": "SRB",
-		"code_num": 688,
 		"divisions": {
 			"RS-00": "Beograd",
 			"RS-14": "Borski okrug",
@@ -3747,9 +3937,10 @@
 		}
 	},
 	"RU": {
+		"alpha-2": "RU",
+		"alpha-3": "RUS",
+		"numeric-3": 643,
 		"name": "Russian Federation",
-		"code3": "RUS",
-		"code_num": 643,
 		"divisions": {
 			"RU-AD": "Adygeya, Respublika",
 			"RU-AL": "Altay, Respublika",
@@ -3837,9 +4028,10 @@
 		}
 	},
 	"RW": {
+		"alpha-2": "RW",
+		"alpha-3": "RWA",
+		"numeric-3": 646,
 		"name": "Rwanda",
-		"code3": "RWA",
-		"code_num": 646,
 		"divisions": {
 			"RW-02": "Est",
 			"RW-03": "Nord",
@@ -3849,9 +4041,10 @@
 		}
 	},
 	"SA": {
+		"alpha-2": "SA",
+		"alpha-3": "SAU",
+		"numeric-3": 682,
 		"name": "Saudi Arabia",
-		"code3": "SAU",
-		"code_num": 682,
 		"divisions": {
 			"SA-14": "'Asir",
 			"SA-11": "Al Bahah",
@@ -3869,9 +4062,10 @@
 		}
 	},
 	"SB": {
+		"alpha-2": "SB",
+		"alpha-3": "SLB",
+		"numeric-3": 90,
 		"name": "Solomon Islands",
-		"code3": "SLB",
-		"code_num": 90,
 		"divisions": {
 			"SB-CH": "Choiseul",
 			"SB-GU": "Guadalcanal",
@@ -3880,9 +4074,10 @@
 		}
 	},
 	"SC": {
+		"alpha-2": "SC",
+		"alpha-3": "SYC",
+		"numeric-3": 690,
 		"name": "Seychelles",
-		"code3": "SYC",
-		"code_num": 690,
 		"divisions": {
 			"SC-02": "Anse Boileau",
 			"SC-05": "Anse Royale",
@@ -3901,9 +4096,10 @@
 		}
 	},
 	"SD": {
+		"alpha-2": "SD",
+		"alpha-3": "SDN",
+		"numeric-3": 729,
 		"name": "Sudan",
-		"code3": "SDN",
-		"code_num": 729,
 		"divisions": {
 			"SD-NB": "Blue Nile",
 			"SD-DC": "Central Darfur",
@@ -3925,9 +4121,10 @@
 		}
 	},
 	"SE": {
+		"alpha-2": "SE",
+		"alpha-3": "SWE",
+		"numeric-3": 752,
 		"name": "Sweden",
-		"code3": "SWE",
-		"code_num": 752,
 		"divisions": {
 			"SE-K": "Blekinge lan",
 			"SE-W": "Dalarnas lan",
@@ -3953,25 +4150,28 @@
 		}
 	},
 	"SG": {
+		"alpha-2": "SG",
+		"alpha-3": "SGP",
+		"numeric-3": 702,
 		"name": "Singapore",
-		"code3": "SGP",
-		"code_num": 702,
 		"divisions": {
 			"-": "Singapore"
 		}
 	},
 	"SH": {
+		"alpha-2": "SH",
+		"alpha-3": "SHN",
+		"numeric-3": 654,
 		"name": "Saint Helena, Ascension and Tristan da Cunha",
-		"code3": "SHN",
-		"code_num": 654,
 		"divisions": {
 			"SH-HL": "Saint Helena"
 		}
 	},
 	"SI": {
+		"alpha-2": "SI",
+		"alpha-3": "SVN",
+		"numeric-3": 705,
 		"name": "Slovenia",
-		"code3": "SVN",
-		"code_num": 705,
 		"divisions": {
 			"SI-001": "Ajdovscina",
 			"SI-213": "Ankaran",
@@ -4168,17 +4368,19 @@
 		}
 	},
 	"SJ": {
+		"alpha-2": "SJ",
+		"alpha-3": "SJM",
+		"numeric-3": 744,
 		"name": "Svalbard and Jan Mayen",
-		"code3": "SJM",
-		"code_num": 744,
 		"divisions": {
 			"-": "Svalbard and Jan Mayen"
 		}
 	},
 	"SK": {
+		"alpha-2": "SK",
+		"alpha-3": "SVK",
+		"numeric-3": 703,
 		"name": "Slovakia",
-		"code3": "SVK",
-		"code_num": 703,
 		"divisions": {
 			"SK-BC": "Banskobystricky kraj",
 			"SK-BL": "Bratislavsky kraj",
@@ -4191,9 +4393,10 @@
 		}
 	},
 	"SL": {
+		"alpha-2": "SL",
+		"alpha-3": "SLE",
+		"numeric-3": 694,
 		"name": "Sierra Leone",
-		"code3": "SLE",
-		"code_num": 694,
 		"divisions": {
 			"SL-E": "Eastern",
 			"SL-N": "Northern",
@@ -4202,9 +4405,10 @@
 		}
 	},
 	"SM": {
+		"alpha-2": "SM",
+		"alpha-3": "SMR",
+		"numeric-3": 674,
 		"name": "San Marino",
-		"code3": "SMR",
-		"code_num": 674,
 		"divisions": {
 			"SM-07": "Citta di San Marino",
 			"SM-04": "Faetano",
@@ -4212,9 +4416,10 @@
 		}
 	},
 	"SN": {
+		"alpha-2": "SN",
+		"alpha-3": "SEN",
+		"numeric-3": 686,
 		"name": "Senegal",
-		"code3": "SEN",
-		"code_num": 686,
 		"divisions": {
 			"SN-DK": "Dakar",
 			"SN-DB": "Diourbel",
@@ -4232,9 +4437,10 @@
 		}
 	},
 	"SO": {
+		"alpha-2": "SO",
+		"alpha-3": "SOM",
+		"numeric-3": 706,
 		"name": "Somalia",
-		"code3": "SOM",
-		"code_num": 706,
 		"divisions": {
 			"SO-AW": "Awdal",
 			"SO-BN": "Banaadir",
@@ -4249,9 +4455,10 @@
 		}
 	},
 	"SR": {
+		"alpha-2": "SR",
+		"alpha-3": "SUR",
+		"numeric-3": 740,
 		"name": "Suriname",
-		"code3": "SUR",
-		"code_num": 740,
 		"divisions": {
 			"SR-CM": "Commewijne",
 			"SR-NI": "Nickerie",
@@ -4262,9 +4469,10 @@
 		}
 	},
 	"SS": {
+		"alpha-2": "SS",
+		"alpha-3": "SSD",
+		"numeric-3": 728,
 		"name": "South Sudan",
-		"code3": "SSD",
-		"code_num": 728,
 		"divisions": {
 			"SS-EC": "Central Equatoria",
 			"SS-EE": "Eastern Equatoria",
@@ -4275,17 +4483,19 @@
 		}
 	},
 	"ST": {
+		"alpha-2": "ST",
+		"alpha-3": "STP",
+		"numeric-3": 678,
 		"name": "Sao Tome and Principe",
-		"code3": "STP",
-		"code_num": 678,
 		"divisions": {
 			"ST-01": "Agua Grande"
 		}
 	},
 	"SV": {
+		"alpha-2": "SV",
+		"alpha-3": "SLV",
+		"numeric-3": 222,
 		"name": "El Salvador",
-		"code3": "SLV",
-		"code_num": 222,
 		"divisions": {
 			"SV-AH": "Ahuachapan",
 			"SV-CA": "Cabanas",
@@ -4304,17 +4514,19 @@
 		}
 	},
 	"SX": {
+		"alpha-2": "SX",
+		"alpha-3": "SXM",
+		"numeric-3": 534,
 		"name": "Sint Maarten (Dutch Part)",
-		"code3": "SXM",
-		"code_num": 534,
 		"divisions": {
 			"-": "Sint Maarten (Dutch Part)"
 		}
 	},
 	"SY": {
+		"alpha-2": "SY",
+		"alpha-3": "SYR",
+		"numeric-3": 760,
 		"name": "Syrian Arab Republic",
-		"code3": "SYR",
-		"code_num": 760,
 		"divisions": {
 			"SY-HA": "Al Hasakah",
 			"SY-LA": "Al Ladhiqiyah",
@@ -4333,9 +4545,10 @@
 		}
 	},
 	"SZ": {
+		"alpha-2": "SZ",
+		"alpha-3": "SWZ",
+		"numeric-3": 748,
 		"name": "Eswatini",
-		"code3": "SWZ",
-		"code_num": 748,
 		"divisions": {
 			"SZ-HH": "Hhohho",
 			"SZ-LU": "Lubombo",
@@ -4344,17 +4557,19 @@
 		}
 	},
 	"TC": {
+		"alpha-2": "TC",
+		"alpha-3": "TCA",
+		"numeric-3": 796,
 		"name": "Turks and Caicos Islands",
-		"code3": "TCA",
-		"code_num": 796,
 		"divisions": {
 			"-": "Turks and Caicos Islands"
 		}
 	},
 	"TD": {
+		"alpha-2": "TD",
+		"alpha-3": "TCD",
+		"numeric-3": 148,
 		"name": "Chad",
-		"code3": "TCD",
-		"code_num": 148,
 		"divisions": {
 			"TD-BG": "Bahr el Ghazal",
 			"TD-CB": "Chari-Baguirmi",
@@ -4368,17 +4583,19 @@
 		}
 	},
 	"TF": {
+		"alpha-2": "TF",
+		"alpha-3": "ATF",
+		"numeric-3": 260,
 		"name": "French Southern Territories",
-		"code3": "ATF",
-		"code_num": 260,
 		"divisions": {
 			"-": "French Southern Territories"
 		}
 	},
 	"TG": {
+		"alpha-2": "TG",
+		"alpha-3": "TGO",
+		"numeric-3": 768,
 		"name": "Togo",
-		"code3": "TGO",
-		"code_num": 768,
 		"divisions": {
 			"TG-C": "Centrale",
 			"TG-K": "Kara",
@@ -4388,9 +4605,10 @@
 		}
 	},
 	"TH": {
+		"alpha-2": "TH",
+		"alpha-3": "THA",
+		"numeric-3": 764,
 		"name": "Thailand",
-		"code3": "THA",
-		"code_num": 764,
 		"divisions": {
 			"TH-37": "Amnat Charoen",
 			"TH-15": "Ang Thong",
@@ -4472,9 +4690,10 @@
 		}
 	},
 	"TJ": {
+		"alpha-2": "TJ",
+		"alpha-3": "TJK",
+		"numeric-3": 762,
 		"name": "Tajikistan",
-		"code3": "TJK",
-		"code_num": 762,
 		"divisions": {
 			"TJ-DU": "Dushanbe",
 			"TJ-KT": "Khatlon",
@@ -4483,17 +4702,19 @@
 		}
 	},
 	"TK": {
+		"alpha-2": "TK",
+		"alpha-3": "TKL",
+		"numeric-3": 772,
 		"name": "Tokelau",
-		"code3": "TKL",
-		"code_num": 772,
 		"divisions": {
 			"-": "Tokelau"
 		}
 	},
 	"TL": {
+		"alpha-2": "TL",
+		"alpha-3": "TLS",
+		"numeric-3": 626,
 		"name": "Timor-Leste",
-		"code3": "TLS",
-		"code_num": 626,
 		"divisions": {
 			"TL-AN": "Ainaro",
 			"TL-BO": "Bobonaro",
@@ -4503,9 +4724,10 @@
 		}
 	},
 	"TM": {
+		"alpha-2": "TM",
+		"alpha-3": "TKM",
+		"numeric-3": 795,
 		"name": "Turkmenistan",
-		"code3": "TKM",
-		"code_num": 795,
 		"divisions": {
 			"TM-A": "Ahal",
 			"TM-B": "Balkan",
@@ -4515,9 +4737,10 @@
 		}
 	},
 	"TN": {
+		"alpha-2": "TN",
+		"alpha-3": "TUN",
+		"numeric-3": 788,
 		"name": "Tunisia",
-		"code3": "TUN",
-		"code_num": 788,
 		"divisions": {
 			"TN-31": "Beja",
 			"TN-13": "Ben Arous",
@@ -4546,9 +4769,10 @@
 		}
 	},
 	"TO": {
+		"alpha-2": "TO",
+		"alpha-3": "TON",
+		"numeric-3": 776,
 		"name": "Tonga",
-		"code3": "TON",
-		"code_num": 776,
 		"divisions": {
 			"TO-02": "Ha'apai",
 			"TO-03": "Niuas",
@@ -4556,9 +4780,10 @@
 		}
 	},
 	"TR": {
+		"alpha-2": "TR",
+		"alpha-3": "TUR",
+		"numeric-3": 792,
 		"name": "Turkey",
-		"code3": "TUR",
-		"code_num": 792,
 		"divisions": {
 			"TR-01": "Adana",
 			"TR-02": "Adiyaman",
@@ -4644,9 +4869,10 @@
 		}
 	},
 	"TT": {
+		"alpha-2": "TT",
+		"alpha-3": "TTO",
+		"numeric-3": 780,
 		"name": "Trinidad and Tobago",
-		"code3": "TTO",
-		"code_num": 780,
 		"divisions": {
 			"TT-ARI": "Arima",
 			"TT-CHA": "Chaguanas",
@@ -4666,17 +4892,19 @@
 		}
 	},
 	"TV": {
+		"alpha-2": "TV",
+		"alpha-3": "TUV",
+		"numeric-3": 798,
 		"name": "Tuvalu",
-		"code3": "TUV",
-		"code_num": 798,
 		"divisions": {
 			"TV-FUN": "Funafuti"
 		}
 	},
 	"TW": {
+		"alpha-2": "TW",
+		"alpha-3": "TWN",
+		"numeric-3": 158,
 		"name": "Taiwan (Province of China)",
-		"code3": "TWN",
-		"code_num": 158,
 		"divisions": {
 			"TW-CHA": "Changhua",
 			"TW-CYQ": "Chiayi",
@@ -4701,9 +4929,10 @@
 		}
 	},
 	"TZ": {
+		"alpha-2": "TZ",
+		"alpha-3": "TZA",
+		"numeric-3": 834,
 		"name": "Tanzania, United Republic of",
-		"code3": "TZA",
-		"code_num": 834,
 		"divisions": {
 			"TZ-01": "Arusha",
 			"TZ-02": "Dar es Salaam",
@@ -4738,9 +4967,10 @@
 		}
 	},
 	"UA": {
+		"alpha-2": "UA",
+		"alpha-3": "UKR",
+		"numeric-3": 804,
 		"name": "Ukraine",
-		"code3": "UKR",
-		"code_num": 804,
 		"divisions": {
 			"UA-43": "Avtonomna Respublika Krym",
 			"UA-71": "Cherkaska oblast",
@@ -4772,9 +5002,10 @@
 		}
 	},
 	"UG": {
+		"alpha-2": "UG",
+		"alpha-3": "UGA",
+		"numeric-3": 800,
 		"name": "Uganda",
-		"code3": "UGA",
-		"code_num": 800,
 		"divisions": {
 			"UG-314": "Abim",
 			"UG-301": "Adjumani",
@@ -4883,17 +5114,19 @@
 		}
 	},
 	"UM": {
+		"alpha-2": "UM",
+		"alpha-3": "UMI",
+		"numeric-3": 581,
 		"name": "United States Minor Outlying Islands",
-		"code3": "UMI",
-		"code_num": 581,
 		"divisions": {
 			"UM-95": "Palmyra Atoll"
 		}
 	},
 	"US": {
+		"alpha-2": "US",
+		"alpha-3": "USA",
+		"numeric-3": 840,
 		"name": "United States of America",
-		"code3": "USA",
-		"code_num": 840,
 		"divisions": {
 			"US-AL": "Alabama",
 			"US-AK": "Alaska",
@@ -4949,9 +5182,10 @@
 		}
 	},
 	"UY": {
+		"alpha-2": "UY",
+		"alpha-3": "URY",
+		"numeric-3": 858,
 		"name": "Uruguay",
-		"code3": "URY",
-		"code_num": 858,
 		"divisions": {
 			"UY-AR": "Artigas",
 			"UY-CA": "Canelones",
@@ -4975,9 +5209,10 @@
 		}
 	},
 	"UZ": {
+		"alpha-2": "UZ",
+		"alpha-3": "UZB",
+		"numeric-3": 860,
 		"name": "Uzbekistan",
-		"code3": "UZB",
-		"code_num": 860,
 		"divisions": {
 			"UZ-AN": "Andijon",
 			"UZ-BU": "Buxoro",
@@ -4995,17 +5230,19 @@
 		}
 	},
 	"VA": {
+		"alpha-2": "VA",
+		"alpha-3": "VAT",
+		"numeric-3": 336,
 		"name": "Holy See",
-		"code3": "VAT",
-		"code_num": 336,
 		"divisions": {
 			"-": "Vatican City"
 		}
 	},
 	"VC": {
+		"alpha-2": "VC",
+		"alpha-3": "VCT",
+		"numeric-3": 670,
 		"name": "Saint Vincent and the Grenadines",
-		"code3": "VCT",
-		"code_num": 670,
 		"divisions": {
 			"VC-01": "Charlotte",
 			"VC-06": "Grenadines",
@@ -5014,9 +5251,10 @@
 		}
 	},
 	"VE": {
+		"alpha-2": "VE",
+		"alpha-3": "VEN",
+		"numeric-3": 862,
 		"name": "Venezuela (Bolivarian Republic of)",
-		"code3": "VEN",
-		"code_num": 862,
 		"divisions": {
 			"VE-Z": "Amazonas",
 			"VE-B": "Anzoategui",
@@ -5045,25 +5283,28 @@
 		}
 	},
 	"VG": {
+		"alpha-2": "VG",
+		"alpha-3": "VGB",
+		"numeric-3": 92,
 		"name": "Virgin Islands (British)",
-		"code3": "VGB",
-		"code_num": 92,
 		"divisions": {
 			"-": "Virgin Islands, British"
 		}
 	},
 	"VI": {
+		"alpha-2": "VI",
+		"alpha-3": "VIR",
+		"numeric-3": 850,
 		"name": "Virgin Islands (U.S.)",
-		"code3": "VIR",
-		"code_num": 850,
 		"divisions": {
 			"-": "Virgin Islands, U.S."
 		}
 	},
 	"VN": {
+		"alpha-2": "VN",
+		"alpha-3": "VNM",
+		"numeric-3": 704,
 		"name": "Viet Nam",
-		"code3": "VNM",
-		"code_num": 704,
 		"divisions": {
 			"VN-44": "An Giang",
 			"VN-43": "Ba Ria - Vung Tau",
@@ -5131,9 +5372,10 @@
 		}
 	},
 	"VU": {
+		"alpha-2": "VU",
+		"alpha-3": "VUT",
+		"numeric-3": 548,
 		"name": "Vanuatu",
-		"code3": "VUT",
-		"code_num": 548,
 		"divisions": {
 			"VU-SEE": "Shefa",
 			"VU-TAE": "Tafea",
@@ -5141,18 +5383,20 @@
 		}
 	},
 	"WF": {
+		"alpha-2": "WF",
+		"alpha-3": "WLF",
+		"numeric-3": 876,
 		"name": "Wallis and Futuna",
-		"code3": "WLF",
-		"code_num": 876,
 		"divisions": {
 			"WF-SG": "Sigave",
 			"WF-UV": "Uvea"
 		}
 	},
 	"WS": {
+		"alpha-2": "WS",
+		"alpha-3": "WSM",
+		"numeric-3": 882,
 		"name": "Samoa",
-		"code3": "WSM",
-		"code_num": 882,
 		"divisions": {
 			"WS-AT": "Atua",
 			"WS-FA": "Fa'asaleleaga",
@@ -5160,9 +5404,10 @@
 		}
 	},
 	"YE": {
+		"alpha-2": "YE",
+		"alpha-3": "YEM",
+		"numeric-3": 887,
 		"name": "Yemen",
-		"code3": "YEM",
-		"code_num": 887,
 		"divisions": {
 			"YE-AD": "'Adan",
 			"YE-AM": "'Amran",
@@ -5186,17 +5431,19 @@
 		}
 	},
 	"YT": {
+		"alpha-2": "YT",
+		"alpha-3": "MYT",
+		"numeric-3": 175,
 		"name": "Mayotte",
-		"code3": "MYT",
-		"code_num": 175,
 		"divisions": {
 			"-": "Sada"
 		}
 	},
 	"ZA": {
+		"alpha-2": "ZA",
+		"alpha-3": "ZAF",
+		"numeric-3": 710,
 		"name": "South Africa",
-		"code3": "ZAF",
-		"code_num": 710,
 		"divisions": {
 			"ZA-EC": "Eastern Cape",
 			"ZA-FS": "Free State",
@@ -5210,9 +5457,10 @@
 		}
 	},
 	"ZM": {
+		"alpha-2": "ZM",
+		"alpha-3": "ZMB",
+		"numeric-3": 894,
 		"name": "Zambia",
-		"code3": "ZMB",
-		"code_num": 894,
 		"divisions": {
 			"ZM-02": "Central",
 			"ZM-08": "Copperbelt",
@@ -5227,9 +5475,10 @@
 		}
 	},
 	"ZW": {
+		"alpha-2": "ZW",
+		"alpha-3": "ZWE",
+		"numeric-3": 716,
 		"name": "Zimbabwe",
-		"code3": "ZWE",
-		"code_num": 716,
 		"divisions": {
 			"ZW-BU": "Bulawayo",
 			"ZW-HA": "Harare",
